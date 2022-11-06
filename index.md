@@ -19,7 +19,7 @@
 #### CycleGAN-VC2
 | Minaii | Octavia | Octavia_to_minaii (cyclegan) | Octavia_to_minaii (cyclegan +warp) | 
 
-| <audio src="audios/minaii_o.wav" controls preload></audio> | <audio src="audios/octavia_o.wav" controls preload></audio> | <audio src="audios/octavia_to_minaii_cyclegan.wav" controls preload></audio> | <audio src="audios/octavia_to_minaii_cyclegan_warp.wav" controls preload></audio>|
+| <audio src="audios/gan_Minaii_TF064.wav" controls preload></audio> | <audio src="audios/gan_Octavia_TF064.wav" controls preload></audio> | <audio src="audios/gan_Octavia_TF064_converted.wav" controls preload></audio> | <audio src="audios/gan_Octavia_TF064_warp.wav" controls preload></audio>|
 
 
 #### Diffusion based VC

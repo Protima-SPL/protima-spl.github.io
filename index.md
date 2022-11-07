@@ -1,7 +1,5 @@
 # <center> Adult to child voice conversion </center>
 
-# <center> my_name *</center> 
-
 <center> University of Sheffield </center>
 
 <center> MINI lab </center>

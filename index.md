@@ -13,7 +13,6 @@
 
 
 ## Demo
-### Samples from the wave files .
 #### CycleGAN-VC2
 | Minaii | Octavia | Octavia_to_minaii (cyclegan) | Octavia_to_minaii (cyclegan +warp) | 
 

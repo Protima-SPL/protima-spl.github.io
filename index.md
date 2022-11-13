@@ -32,7 +32,7 @@
 #### VAE based VC
 | Minaii | Octavia | Octavia_to_minaii (VAE) |Octavia_to_minaii (VAE +warp) | 
 
-| <audio src="audios/Minaii_TF065.wav" controls preload></audio> | <audio src="audios/Octavia_TF065.wav" controls preload></audio> | <audio src="audios/Octavia_TF065_vc.wav" controls preload></audio> | <audio src="audios/Octavia_TF065_warp.wav" controls preload></audio> |
+| <audio src="audios/Minaii_TF065.wav" controls preload></audio> | <audio src="audios/Octavia_TF065.wav" controls preload></audio> | <audio src="audios/Octavia_TF065_diff_vc.wav" controls preload></audio> | <audio src="audios/Octavia_TF065_diff_warp.wav" controls preload></audio> |
 
 
 

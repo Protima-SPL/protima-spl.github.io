@@ -22,7 +22,7 @@
 #### Diffusion based VC
 | Minaii | Octavia | Octavia_to_minaii (diffusion) |Octavia_to_minaii (post processed) | 
 
-| <audio src="audios/diff_Minaii_TF064.wav" controls preload></audio> | <audio src="audios/diff_Octavia_TF064.wav" controls preload></audio> | <audio src="audios/diff_Octavia_TF064_converted496.wav" controls preload></audio> | <audio src="audios/diff_Octavia_TF064_warp.wav" controls preload></audio> |
+| <audio src="audios/diff_Minaii_TF064.wav" controls preload></audio> | <audio src="audios/diff_Octavia_TF064.wav" controls preload></audio> | <audio src="audios/Octavia_TF064_diff_vc.wav" controls preload></audio> | <audio src="audios/Octavia_TF064_diff_warp.wav" controls preload></audio> |
 
 #### Flow based VC
 | Minaii | Octavia | Octavia_to_minaii (flow) |Octavia_to_minaii (post processed) | 
@@ -32,7 +32,7 @@
 #### VAE based VC
 | Minaii | Octavia | Octavia_to_minaii (VAE) |Octavia_to_minaii (post processed) | 
 
-| <audio src="audios/Minaii_TF065.wav" controls preload></audio> | <audio src="audios/Octavia_TF065.wav" controls preload></audio> | <audio src="audios/Octavia_TF065_diff_vc.wav" controls preload></audio> | <audio src="audios/Octavia_TF065_diff_warp.wav" controls preload></audio> |
+| <audio src="audios/Minaii_TF065.wav" controls preload></audio> | <audio src="audios/Octavia_TF065.wav" controls preload></audio> | <audio src="audios/Octavia_TF065_vae_vc.wav" controls preload></audio> | <audio src="audios/Octavia_TF065_vae_warp.wav" controls preload></audio> |
 
 
 

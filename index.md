@@ -27,7 +27,7 @@
 #### Flow based VC
 | Minaii | Octavia | Octavia_to_minaii (flow) |Octavia_to_minaii (flow +warp) | 
 
-| <audio src="audios/blow_minaii_james_52.wav" controls preload></audio> | <audio src="audios/blow_octavia_james_52.wav" controls preload></audio> | <audio src="audios/blow_converted.wav" controls preload></audio> | <audio src="audios/blow_warp.wav" controls preload></audio> |
+| <audio src="audios/blow_minaii_james_52.wav" controls preload></audio> | <audio src="audios/blow_octavia_james_52.wav" controls preload></audio> | <audio src="audios/Octavia_james_blow_vc.wav" controls preload></audio> | <audio src="audios/Octavia_james_blow_warp.wav" controls preload></audio> |
 
 #### VAE based VC
 | Minaii | Octavia | Octavia_to_minaii (VAE) |Octavia_to_minaii (VAE +warp) | 
